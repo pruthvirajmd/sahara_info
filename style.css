@@ -98,16 +98,16 @@ button{
     
 }
 .card1{
-    background-image: url(/images/card1.jpg);
+    background-image: url(https://pruthvirajmd.github.io/sahara_info/images/card1.jpg);
 }
 .card2{
-    background-image: url(/images/card2.jpg);
+    background-image: url(https://pruthvirajmd.github.io/sahara_info/images/card2.jpg);
 }
 .card3{
-    background-image: url(/images/card3.jpg);
+    background-image: url(https://pruthvirajmd.github.io/sahara_info/images/card3.jpg);
 }
 .card4{
-    background-image: url(/images/card4.jpg);
+    background-image: url(https://pruthvirajmd.github.io/sahara_info/images/card4.jpg);
 }
 .card:hover{
     transform: translateY(-13px);
